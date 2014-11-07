@@ -1,4 +1,4 @@
-hybrid-base
+Iapetos Theme
 ===========
 
-A base theme for building with the Hybrid Core framework.
+A theme based on Theme Hybrid & Hybrid Core framework.
